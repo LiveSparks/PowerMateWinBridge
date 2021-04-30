@@ -466,7 +466,7 @@ fire_and_forget getCharacteristics(GattDeviceService service) {
 int main()
 {
     //This Command hides the Console Window.
-    ShowWindow(GetConsoleWindow(), SW_HIDE);
+    // ShowWindow(GetConsoleWindow(), SW_HIDE);
 
     std::cout << "=================================================\n";
     std::cout << "PowerMate Windows Bridge by github.com/livesparks\n";
