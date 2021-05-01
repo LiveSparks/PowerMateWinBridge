@@ -13,6 +13,7 @@
 </p>
 
 Most of the code is stolen from [s7726/PowerMate](https://github.com/s7726/PowerMate). Project was written in Visual Studio 2019. Allows you to map the PowerMate's input like normal keys in any application. Recommended to be used with [AutoHotKey](https://www.autohotkey.com/).
+The project was developed for [Theodoros Akimaru](theodorosakimaru@gmail.com).
 
 ## Usage
 
@@ -54,3 +55,4 @@ Ravi Kharb – [@LiveSparksYT](https://twitter.com/LiveSparksYT) – livesparkin
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 * [s7726/PowerMate](https://github.com/s7726/PowerMate)
+* [Theodoros Akimaru](theodorosakimaru@gmail.com)
